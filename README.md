@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub account!
 
-<img src ="https://cdn-icons-png.flaticon.com/512/919/919826.png" height = "200px" width = "200px"/> **Swing** in Java is a lightweight GUI toolkit that has a wide variety of widgets for building optimized window-based applications. It is a part of the JFC( Java Foundation Classes). It is built on top of the AWT API and entirely written in Java. It is platform-independent unlike AWT and has lightweight components. It is used for creating window-based applications. It includes components like button, scroll bar, text field etc.[See More](https://www.javatpoint.com/java-swing)
+<img src ="https://www.marksmantech.com/images/technology/javaswing.png" height = "200px" width = "200px"/> **Swing** in Java is a lightweight GUI toolkit that has a wide variety of widgets for building optimized window-based applications. It is a part of the JFC( Java Foundation Classes). It is built on top of the AWT API and entirely written in Java. It is platform-independent unlike AWT and has lightweight components. It is used for creating window-based applications. It includes components like button, scroll bar, text field etc.[See More](https://www.javatpoint.com/java-swing)
 
 ### [Code-Example](https://github.com/learnwithfair/java-swing)
 
